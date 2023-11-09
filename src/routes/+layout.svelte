@@ -3,7 +3,7 @@
   import Footer from "../components/Footer.svelte";
   import Header from "../components/Header.svelte";
   import Main from "../components/Main.svelte";
-  let y = 0;
+  let y;
   let innerHeight = 0;
   let innerWidth = 0;
   function goTop() {
