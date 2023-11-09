@@ -5,8 +5,6 @@
     { name: "Projects ", link: "#projects" },
     { name: "About me", link: "#about" },
     { name: "Blog", link: "https://www.youtube.com/watch?v=dQw4w9WgXcQ" },
-    // { name: "Contact", link: "" },
-    // {name: '', link: ''},
   ];
 </script>
 
@@ -16,7 +14,7 @@
       ? " py-4 bg-slate-950 border-violet-950"
       : " py-6 bg-transparent border-transparent")}
 >
-  <h1 class="font-medium">
+  <h1 class="font-medium text-xl md:text-2xl">
     <b class="font-bold poppins">MOHIL</b> <span class="">BANSAL</span>
   </h1>
   <div class="sm:flex items-center gap-8 hidden">
