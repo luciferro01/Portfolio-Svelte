@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+html{
+    /* scroll-behavior: smooth; */
+    scroll-snap-type: mandatory;
+}
+
+*{font-family: 'Roboto', sans-serif;}
+h1, h2, h2, .poppins{
+    font-family: 'Poppins', sans-serif;
+}
